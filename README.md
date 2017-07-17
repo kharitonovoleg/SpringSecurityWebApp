@@ -2,8 +2,7 @@
 Web-application with Spring Security for 
 validation and registration users with login / logout.
 
-## used technologies: Spring Security, Spring JPA, 
-##Hibernate, JSP, Apache TomCat, Maven, MySQL, JUnit, Log4j
+## used technologies: Spring Security, Spring JPA, Hibernate, JSP, Apache TomCat, Maven, MySQL, JUnit, Log4j
 
 using:
 IDE Intellij Idea Ultimate
